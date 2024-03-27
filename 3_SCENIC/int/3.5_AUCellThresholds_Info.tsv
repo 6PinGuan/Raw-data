@@ -1,0 +1,119 @@
+regulon	threshold	nCellsAssigned	AUCellComment	nGenes	clusteringOrder	clusterGroup	onlyNonDuplicatedExtended	personalNotes
+FOSB (20g)	0.109	246		20	1	2	TRUE	
+FOS (39g)	0.129	197		39	2	2	TRUE	
+JUND_extended (750g)	0.232	108		750	3	2	TRUE	
+JUN_extended (402g)	0.164	124		402	4	2	TRUE	
+EGR1_extended (205g)	0.167	78		205	5	2	FALSE	
+EGR1 (136g)	0.153	81		136	6	2	TRUE	
+FOSB_extended (212g)	0.0988	188		212	7	2	FALSE	
+JUNB_extended (186g)	0.137	75		186	8	2	TRUE	
+FOS_extended (165g)	0.17	70		165	9	2	FALSE	
+ATF3_extended (231g)	0.0948	187		231	10	2	FALSE	
+ATF3 (119g)	0.158	80		119	11	2	TRUE	
+FOXC1_extended (30g)	0.00845	167	83% (more than 0.75%) of AUC are zero. 	30	12	2	TRUE	
+TFAP2A (18g)	0.0203	119	88% (more than 0.75%) of AUC are zero. 	18	13	2	TRUE	
+MAFF_extended (62g)	0.0204	142		62	14	2	TRUE	
+EGR3_extended (119g)	0.0184	111		119	15	2	FALSE	
+EGR3 (76g)	0.0159	133		76	16	2	TRUE	
+ETS2_extended (77g)	0.0353	109		77	17	2	TRUE	
+MYC_extended (23g)	0.0213	127	84% (more than 0.75%) of AUC are zero. 	23	18	2	TRUE	
+CEBPD_extended (30g)	0.0313	192		30	19	2	TRUE	
+ETV5 (11g)	0.0295	127	88% (more than 0.75%) of AUC are zero. 	11	20	2	TRUE	
+FOSL2_extended (42g)	0.0275	37	76% (more than 0.75%) of AUC are zero. 	42	21	2	FALSE	
+FOSL2 (29g)	0.0302	37	80% (more than 0.75%) of AUC are zero. 	29	22	2	TRUE	
+BHLHE40_extended (13g)	0.0163	79	92% (more than 0.75%) of AUC are zero. 	13	23	2	TRUE	
+HES1_extended (20g)	0.0135	126	88% (more than 0.75%) of AUC are zero. 	20	24	2	TRUE	
+OVOL1 (11g)	0.014	34	97% (more than 0.75%) of AUC are zero. 	11	25	2	TRUE	
+TEAD1_extended (36g)	0.0533	344		36	26	1	FALSE	
+TEAD1 (18g)	0.0257	718		18	27	1	TRUE	
+AHR (29g)	0.00947	1117		29	28	1	TRUE	
+SREBF2_extended (63g)	0.0229	424		63	29	1	TRUE	
+RAD21_extended (370g)	0.0446	1243	 The right distribution is taller. 	370	30	1	TRUE	
+NKX2-1 (64g)	0.182	0	The AUC might follow a normal distribution (random gene-set?).  The right distribution is taller. 	64	31	1	TRUE	
+FOXA2_extended (57g)	0.157	0	The AUC might follow a normal distribution (random gene-set?).  The global distribution overlaps the partial distributions. 	57	32	1	TRUE	
+BHLHE41_extended (21g)	0.0308	200		21	33	1	TRUE	
+SPI1_extended (638g)	0.0673	66		638	34	1	FALSE	
+SPI1 (592g)	0.0619	68		592	35	1	TRUE	
+IRF8_extended (240g)	0.021	88		240	36	1	FALSE	
+IRF8 (185g)	0.0186	99		185	37	1	TRUE	
+PRDM1_extended (17g)	0.0369	47	91% (more than 0.75%) of AUC are zero. 	17	38	1	TRUE	
+RUNX3_extended (17g)	0.0198	62	92% (more than 0.75%) of AUC are zero. 	17	39	1	TRUE	
+STAT5A_extended (21g)	0.0268	42	93% (more than 0.75%) of AUC are zero. 	21	40	1	TRUE	
+ZNF143_extended (14g)	0.00687	55	96% (more than 0.75%) of AUC are zero. 	14	41	1	TRUE	
+ELF1_extended (19g)	0.00949	72	92% (more than 0.75%) of AUC are zero. 	19	42	1	TRUE	
+NFKB1_extended (12g)	0.013	49	95% (more than 0.75%) of AUC are zero. 	12	43	1	TRUE	
+CREM_extended (10g)	0.0321	50	94% (more than 0.75%) of AUC are zero. 	10	44	1	TRUE	
+RFX3_extended (16g)	0.0294	53	92% (more than 0.75%) of AUC are zero. 	16	45	1	FALSE	
+RFX3 (14g)	0.0327	50	92% (more than 0.75%) of AUC are zero. 	14	46	1	TRUE	
+ELK1_extended (28g)	0.0049	119	90% (more than 0.75%) of AUC are zero. 	28	47	1	FALSE	
+ELK1 (21g)	0.00646	89	92% (more than 0.75%) of AUC are zero. 	21	48	1	TRUE	
+TBP_extended (13g)	0.00754	66	94% (more than 0.75%) of AUC are zero. 	13	49	1	FALSE	
+TBP (11g)	0.00888	54	95% (more than 0.75%) of AUC are zero. 	11	50	1	TRUE	
+ZNF274_extended (19g)	0.00611	64	94% (more than 0.75%) of AUC are zero. 	19	51	1	FALSE	
+ZNF274 (12g)	0.00924	47	96% (more than 0.75%) of AUC are zero. 	12	52	1	TRUE	
+RXRA_extended (90g)	0.00758	279		90	53	1	FALSE	
+RXRA (35g)	0.0113	272		35	54	1	TRUE	
+EPAS1 (30g)	0.0168	321		30	55	1	TRUE	
+NR3C1_extended (24g)	0.00923	171	82% (more than 0.75%) of AUC are zero. 	24	56	1	FALSE	
+NR3C1 (16g)	0.0117	140	86% (more than 0.75%) of AUC are zero. 	16	57	1	TRUE	
+STAT1_extended (63g)	0.00764	236		63	58	1	FALSE	
+STAT1 (44g)	0.00845	206		44	59	1	TRUE	
+STAT3_extended (82g)	0.0446	8	 The global distribution overlaps the partial distributions. 	82	60	1	FALSE	
+STAT3 (48g)	0.0144	277		48	61	1	TRUE	
+FOXP1_extended (51g)	0.0116	278		51	62	1	FALSE	
+FOXP1 (39g)	0.0135	279		39	63	1	TRUE	
+FOXN3_extended (14g)	0.0178	121	87% (more than 0.75%) of AUC are zero. 	14	64	1	TRUE	
+FOXO3_extended (10g)	0.0217	174	82% (more than 0.75%) of AUC are zero. 	10	65	1	TRUE	
+GRHL2_extended (11g)	0.015	41	96% (more than 0.75%) of AUC are zero. 	11	66	1	TRUE	
+ATF5_extended (11g)	0.00797	59	95% (more than 0.75%) of AUC are zero. 	11	67	1	TRUE	
+CEBPB_extended (133g)	0.0321	74		133	68	1	TRUE	
+ZBTB7A_extended (21g)	0.0123	200	79% (more than 0.75%) of AUC are zero. 	21	69	1	TRUE	
+RBBP5_extended (18g)	0.00845	71	93% (more than 0.75%) of AUC are zero. 	18	70	1	TRUE	
+MAFB (11g)	0.0131	73	93% (more than 0.75%) of AUC are zero. 	11	71	1	TRUE	
+XBP1 (13g)	0.0148	164	84% (more than 0.75%) of AUC are zero. 	13	72	1	TRUE	
+HCFC1_extended (27g)	0.013	72	89% (more than 0.75%) of AUC are zero. 	27	73	1	TRUE	
+NFYA_extended (14g)	0.00625	59	95% (more than 0.75%) of AUC are zero. 	14	74	1	TRUE	
+IRF3_extended (12g)	0.00808	67	94% (more than 0.75%) of AUC are zero. 	12	75	1	TRUE	
+TAF1_extended (12g)	0.0152	60	94% (more than 0.75%) of AUC are zero. 	12	76	1	TRUE	
+UBTF_extended (12g)	0.00949	49	96% (more than 0.75%) of AUC are zero. 	12	77	1	TRUE	
+DDIT3_extended (10g)	0.0125	49	96% (more than 0.75%) of AUC are zero. 	10	78	1	TRUE	
+POLE3_extended (17g)	0.00692	75	93% (more than 0.75%) of AUC are zero. 	17	79	1	TRUE	
+FOXA1_extended (15g)	0.0126	55	95% (more than 0.75%) of AUC are zero. 	15	80	1	TRUE	
+CTCF_extended (15g)	0.00832	86	92% (more than 0.75%) of AUC are zero. 	15	81	1	TRUE	
+IRF7_extended (14g)	0.0159	66	93% (more than 0.75%) of AUC are zero. 	14	82	1	TRUE	
+SREBF1_extended (53g)	0.00527	213	77% (more than 0.75%) of AUC are zero. 	53	83	1	TRUE	
+STAT6_extended (40g)	0.00822	241		40	84	1	TRUE	
+MAX_extended (25g)	0.00711	127	87% (more than 0.75%) of AUC are zero. 	25	85	1	TRUE	
+REST_extended (15g)	0.00868	110	91% (more than 0.75%) of AUC are zero. 	15	86	1	TRUE	
+KDM5B_extended (14g)	0.0103	102	90% (more than 0.75%) of AUC are zero. 	14	87	1	TRUE	
+MAZ_extended (12g)	0.0132	79	92% (more than 0.75%) of AUC are zero. 	12	88	1	TRUE	
+IKZF1_extended (27g)	0.00663	86	91% (more than 0.75%) of AUC are zero. 	27	89	1	TRUE	
+FOXJ2_extended (11g)	0.0153	38	96% (more than 0.75%) of AUC are zero. 	11	90	1	TRUE	
+MAFG_extended (11g)	0.0162	73	93% (more than 0.75%) of AUC are zero. 	11	91	1	TRUE	
+RXRB_extended (10g)	0.0106	59	95% (more than 0.75%) of AUC are zero. 	10	92	1	TRUE	
+BCLAF1_extended (100g)	0.00852	274		100	93	1	FALSE	
+BCLAF1 (27g)	0.0118	233		27	94	1	TRUE	
+YY1_extended (17g)	0.0204	239		17	95	1	TRUE	
+ZMIZ1_extended (16g)	0.011	81	92% (more than 0.75%) of AUC are zero. 	16	96	1	TRUE	
+HDAC2_extended (29g)	0.00639	162	84% (more than 0.75%) of AUC are zero. 	29	97	1	TRUE	
+ELF2_extended (25g)	0.00742	104	90% (more than 0.75%) of AUC are zero. 	25	98	1	TRUE	
+CUX1_extended (133g)	0.022	135	 The global distribution overlaps the partial distributions. 	133	99	1	TRUE	
+KLF13_extended (11g)	0.0131	132	87% (more than 0.75%) of AUC are zero. 	11	100	1	TRUE	
+POU2F1 (11g)	0.0101	68	94% (more than 0.75%) of AUC are zero. 	11	101	1	TRUE	
+RELA_extended (21g)	0.00706	91	92% (more than 0.75%) of AUC are zero. 	21	102	1	TRUE	
+NR2C2_extended (11g)	0.0183	58	94% (more than 0.75%) of AUC are zero. 	11	103	1	TRUE	
+MXI1_extended (26g)	0.0256	114		26	104	1	TRUE	
+TEF_extended (16g)	0.00831	102	91% (more than 0.75%) of AUC are zero. 	16	105	1	TRUE	
+SIN3A_extended (20g)	0.0148	45	94% (more than 0.75%) of AUC are zero. 	20	106	1	TRUE	
+ESRRA_extended (12g)	0.00748	56	95% (more than 0.75%) of AUC are zero. 	12	107	1	TRUE	
+SP1_extended (15g)	0.0104	110	89% (more than 0.75%) of AUC are zero. 	15	108	1	TRUE	
+RCOR1_extended (37g)	0.0065	174	81% (more than 0.75%) of AUC are zero. 	37	109	1	TRUE	
+FOXJ3_extended (19g)	0.00755	109	90% (more than 0.75%) of AUC are zero. 	19	110	1	TRUE	
+NFE2L2_extended (14g)	0.0178	199	79% (more than 0.75%) of AUC are zero.  The global distribution overlaps the partial distributions. 	14	111	1	FALSE	
+NFE2L2 (13g)	0.019	199	79% (more than 0.75%) of AUC are zero. 	13	112	1	TRUE	
+TFDP1_extended (13g)	0.0094	65	94% (more than 0.75%) of AUC are zero. 	13	113	1	FALSE	
+TFDP1 (11g)	0.00859	49	96% (more than 0.75%) of AUC are zero. 	11	114	1	TRUE	
+GATA6_extended (14g)	0.011	75	93% (more than 0.75%) of AUC are zero. 	14	115	1	FALSE	
+GATA6 (11g)	0.00971	64	95% (more than 0.75%) of AUC are zero. 	11	116	1	TRUE	
+ATF4_extended (230g)	0.0578	1	The AUC might follow a normal distribution (random gene-set?).  The global distribution overlaps the partial distributions. 	230	117	1	FALSE	
+ATF4 (148g)	0.0598	0	The AUC might follow a normal distribution (random gene-set?).  The global distribution overlaps the partial distributions. 	148	118	1	TRUE	

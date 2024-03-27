@@ -1,0 +1,389 @@
+Gene	Term
+INS	Autophagy
+IGF1R	Autophagy
+IRS1	Autophagy
+IRS2	Autophagy
+IRS4	Autophagy
+PIK3CA	Autophagy
+PIK3CD	Autophagy
+PIK3CB	Autophagy
+PIK3R1	Autophagy
+PIK3R2	Autophagy
+PIK3R3	Autophagy
+PDPK1	Autophagy
+AKT1	Autophagy
+AKT2	Autophagy
+AKT3	Autophagy
+PTEN	Autophagy
+HRAS	Autophagy
+KRAS	Autophagy
+NRAS	Autophagy
+MRAS	Autophagy
+RRAS	Autophagy
+RRAS2	Autophagy
+RAF1	Autophagy
+MAP2K1	Autophagy
+MAP2K2	Autophagy
+MAPK1	Autophagy
+MAPK3	Autophagy
+HIF1A	Autophagy
+DDIT4	Autophagy
+TSC2	Autophagy
+TSC1	Autophagy
+BNIP3	Autophagy
+RHEB	Autophagy
+RPTOR	Autophagy
+DEPTOR	Autophagy
+MTOR	Autophagy
+AKT1S1	Autophagy
+MLST8	Autophagy
+RPS6KB1	Autophagy
+RPS6KB2	Autophagy
+IGBP1	Autophagy
+PPP2CA	Autophagy
+PPP2CB	Autophagy
+ULK1	Autophagy
+ULK2	Autophagy
+ATG13	Autophagy
+ATG101	Autophagy
+RB1CC1	Autophagy
+ATG2A	Autophagy
+ATG2B	Autophagy
+WIPI2	Autophagy
+WIPI1	Autophagy
+WDR45B	Autophagy
+WDR45	Autophagy
+ATG9B	Autophagy
+ATG9A	Autophagy
+SUPT20H	Autophagy
+SMCR8	Autophagy
+WDR41	Autophagy
+C9orf72	Autophagy
+RAB8A	Autophagy
+RAB39B	Autophagy
+SQSTM1	Autophagy
+TBK1	Autophagy
+TANK	Autophagy
+RAB1A	Autophagy
+RRAGA	Autophagy
+RRAGB	Autophagy
+RRAGC	Autophagy
+RRAGD	Autophagy
+STK11	Autophagy
+PRKAA1	Autophagy
+PRKAA2	Autophagy
+PRKACA	Autophagy
+PRKACB	Autophagy
+PRKACG	Autophagy
+PRKCD	Autophagy
+MAPK8	Autophagy
+MAPK10	Autophagy
+MAPK9	Autophagy
+BCL2	Autophagy
+BCL2L1	Autophagy
+BAD	Autophagy
+BECN1	Autophagy
+BECN2	Autophagy
+NRBF2	Autophagy
+PIK3R4	Autophagy
+PIK3C3	Autophagy
+ATG14	Autophagy
+AMBRA1	Autophagy
+TRAF6	Autophagy
+TP53INP2	Autophagy
+VMP1	Autophagy
+STX17	Autophagy
+UVRAG	Autophagy
+SH3GLB1	Autophagy
+RUBCN	Autophagy
+CAMKK2	Autophagy
+MAP3K7	Autophagy
+ERN1	Autophagy
+ITPR1	Autophagy
+DAPK1	Autophagy
+DAPK3	Autophagy
+DAPK2	Autophagy
+HMGB1	Autophagy
+PRAP1	Autophagy
+EIF2AK3	Autophagy
+EIF2AK4	Autophagy
+EIF2S1	Autophagy
+MTMR3	Autophagy
+MTMR4	Autophagy
+MTMR14	Autophagy
+ZFYVE1	Autophagy
+ATG12	Autophagy
+ATG5	Autophagy
+ATG16L1	Autophagy
+ATG16L2	Autophagy
+ATG7	Autophagy
+ATG10	Autophagy
+ATG3	Autophagy
+CFLAR	Autophagy
+RAB33B	Autophagy
+PRKCQ	Autophagy
+GABARAP	Autophagy
+GABARAPL1	Autophagy
+GABARAPL2	Autophagy
+MAP1LC3C	Autophagy
+MAP1LC3B	Autophagy
+MAP1LC3A	Autophagy
+MAP1LC3B2	Autophagy
+ATG4A	Autophagy
+ATG4B	Autophagy
+ATG4C	Autophagy
+ATG4D	Autophagy
+NBR1	Autophagy
+OPTN	Autophagy
+CALCOCO2	Autophagy
+TAX1BP1	Autophagy
+WDFY3	Autophagy
+UBA52	Autophagy
+RPS27A	Autophagy
+UBB	Autophagy
+UBC	Autophagy
+SNAP29	Autophagy
+VAMP8	Autophagy
+YKT6	Autophagy
+STX7	Autophagy
+EPG5	Autophagy
+PLEKHM1	Autophagy
+VPS11	Autophagy
+VPS16	Autophagy
+VPS18	Autophagy
+VPS33A	Autophagy
+VPS39	Autophagy
+VPS41	Autophagy
+BIRC6	Autophagy
+GORASP2	Autophagy
+GORASP1	Autophagy
+RAB7A	Autophagy
+RAB7B	Autophagy
+LAMP1	Autophagy
+LAMP2	Autophagy
+CTSD	Autophagy
+CTSL	Autophagy
+CTSB	Autophagy
+AS3MT	Reactive oxygen species
+GSTA5	Reactive oxygen species
+GSTA2	Reactive oxygen species
+GSTA4	Reactive oxygen species
+GSTO2	Reactive oxygen species
+GSTM4	Reactive oxygen species
+GSTT2	Reactive oxygen species
+GSTT1	Reactive oxygen species
+GSTM3	Reactive oxygen species
+MGST1	Reactive oxygen species
+MGST3	Reactive oxygen species
+GSTM1	Reactive oxygen species
+GSTM5	Reactive oxygen species
+MGST2	Reactive oxygen species
+GSTA1	Reactive oxygen species
+GSTM2	Reactive oxygen species
+GSTA3	Reactive oxygen species
+GSTO1	Reactive oxygen species
+GSTT2B	Reactive oxygen species
+ND1	Reactive oxygen species
+ND2	Reactive oxygen species
+ND3	Reactive oxygen species
+ND4	Reactive oxygen species
+ND4L	Reactive oxygen species
+ND5	Reactive oxygen species
+ND6	Reactive oxygen species
+NDUFV1	Reactive oxygen species
+NDUFV2	Reactive oxygen species
+NDUFV3	Reactive oxygen species
+NDUFA1	Reactive oxygen species
+NDUFA2	Reactive oxygen species
+NDUFA3	Reactive oxygen species
+NDUFA4	Reactive oxygen species
+NDUFA4L2	Reactive oxygen species
+NDUFA5	Reactive oxygen species
+NDUFA6	Reactive oxygen species
+NDUFA7	Reactive oxygen species
+NDUFA8	Reactive oxygen species
+NDUFA9	Reactive oxygen species
+NDUFA10	Reactive oxygen species
+NDUFAB1	Reactive oxygen species
+NDUFA11	Reactive oxygen species
+NDUFA12	Reactive oxygen species
+NDUFA13	Reactive oxygen species
+NDUFB1	Reactive oxygen species
+NDUFB2	Reactive oxygen species
+NDUFB3	Reactive oxygen species
+NDUFB4	Reactive oxygen species
+NDUFB5	Reactive oxygen species
+NDUFB6	Reactive oxygen species
+NDUFB7	Reactive oxygen species
+NDUFB8	Reactive oxygen species
+NDUFB9	Reactive oxygen species
+NDUFB10	Reactive oxygen species
+NDUFB11	Reactive oxygen species
+NDUFS1	Reactive oxygen species
+NDUFS2	Reactive oxygen species
+NDUFS3	Reactive oxygen species
+NDUFS4	Reactive oxygen species
+NDUFS5	Reactive oxygen species
+NDUFS6	Reactive oxygen species
+NDUFS7	Reactive oxygen species
+NDUFS8	Reactive oxygen species
+NDUFC1	Reactive oxygen species
+NDUFC2	Reactive oxygen species
+NDUFC2-KCTD14	Reactive oxygen species
+SDHA	Reactive oxygen species
+SDHB	Reactive oxygen species
+SDHC	Reactive oxygen species
+SDHD	Reactive oxygen species
+UQCRFS1	Reactive oxygen species
+CYTB	Reactive oxygen species
+CYC1	Reactive oxygen species
+UQCRC1	Reactive oxygen species
+UQCRC2	Reactive oxygen species
+UQCRH	Reactive oxygen species
+UQCRHL	Reactive oxygen species
+UQCRB	Reactive oxygen species
+UQCRQ	Reactive oxygen species
+UQCR10	Reactive oxygen species
+UQCR11	Reactive oxygen species
+COX3	Reactive oxygen species
+COX1	Reactive oxygen species
+COX2	Reactive oxygen species
+COX4I2	Reactive oxygen species
+COX4I1	Reactive oxygen species
+COX5A	Reactive oxygen species
+COX5B	Reactive oxygen species
+COX6A1	Reactive oxygen species
+COX6A2	Reactive oxygen species
+COX6B1	Reactive oxygen species
+COX6B2	Reactive oxygen species
+COX6C	Reactive oxygen species
+COX7A1	Reactive oxygen species
+COX7A2	Reactive oxygen species
+COX7A2L	Reactive oxygen species
+COX7B	Reactive oxygen species
+COX7B2	Reactive oxygen species
+COX7C	Reactive oxygen species
+COX8C	Reactive oxygen species
+COX8A	Reactive oxygen species
+ATP5F1A	Reactive oxygen species
+ATP5F1B	Reactive oxygen species
+ATP5F1C	Reactive oxygen species
+ATP5F1D	Reactive oxygen species
+ATP5F1E	Reactive oxygen species
+ATP6	Reactive oxygen species
+ATP5PB	Reactive oxygen species
+ATP5MC1	Reactive oxygen species
+ATP5MC2	Reactive oxygen species
+ATP5MC3	Reactive oxygen species
+ATP5PD	Reactive oxygen species
+ATP5PO	Reactive oxygen species
+ATP5PF	Reactive oxygen species
+ATP8	Reactive oxygen species
+SOD2	Reactive oxygen species
+VDAC1	Reactive oxygen species
+VDAC2	Reactive oxygen species
+VDAC3	Reactive oxygen species
+SLC25A4	Reactive oxygen species
+SLC25A5	Reactive oxygen species
+SLC25A6	Reactive oxygen species
+SLC25A31	Reactive oxygen species
+PPIF	Reactive oxygen species
+SOD1	Reactive oxygen species
+CAT	Reactive oxygen species
+SLC26A1	Reactive oxygen species
+SLC26A2	Reactive oxygen species
+SLC26A6	Reactive oxygen species
+SLC26A9	Reactive oxygen species
+CYP1A2	Reactive oxygen species
+CYP2E1	Reactive oxygen species
+CYP2F1	Reactive oxygen species
+CYP1A1	Reactive oxygen species
+CYP1B1	Reactive oxygen species
+EPHX1	Reactive oxygen species
+EPHX2	Reactive oxygen species
+EPHX3	Reactive oxygen species
+EPHX4	Reactive oxygen species
+AKR1A1	Reactive oxygen species
+AKR1C1	Reactive oxygen species
+AKR1C2	Reactive oxygen species
+AKR1C3	Reactive oxygen species
+AKR1C4	Reactive oxygen species
+NQO1	Reactive oxygen species
+CBR1	Reactive oxygen species
+AHR	Reactive oxygen species
+LPO	Reactive oxygen species
+NOX4	Reactive oxygen species
+CYBA	Reactive oxygen species
+NOX1	Reactive oxygen species
+NCF1	Reactive oxygen species
+NCF2	Reactive oxygen species
+EGF	Reactive oxygen species
+EGFR	Reactive oxygen species
+HGF	Reactive oxygen species
+MET	Reactive oxygen species
+GRB2	Reactive oxygen species
+SOS1	Reactive oxygen species
+SOS2	Reactive oxygen species
+HRAS	Reactive oxygen species
+KRAS	Reactive oxygen species
+NRAS	Reactive oxygen species
+ARAF	Reactive oxygen species
+BRAF	Reactive oxygen species
+RAF1	Reactive oxygen species
+MAP2K1	Reactive oxygen species
+MAP2K2	Reactive oxygen species
+MAPK1	Reactive oxygen species
+MAPK3	Reactive oxygen species
+MAP3K5	Reactive oxygen species
+MAP2K4	Reactive oxygen species
+MAP2K7	Reactive oxygen species
+MAPK8	Reactive oxygen species
+MAPK10	Reactive oxygen species
+MAPK9	Reactive oxygen species
+MAPK11	Reactive oxygen species
+MAPK12	Reactive oxygen species
+MAPK13	Reactive oxygen species
+MAPK14	Reactive oxygen species
+JUN	Reactive oxygen species
+FOS	Reactive oxygen species
+PIK3R1	Reactive oxygen species
+PIK3R2	Reactive oxygen species
+PIK3R3	Reactive oxygen species
+PIK3CA	Reactive oxygen species
+PIK3CD	Reactive oxygen species
+PIK3CB	Reactive oxygen species
+RAC1	Reactive oxygen species
+PDPK1	Reactive oxygen species
+AKT1	Reactive oxygen species
+AKT2	Reactive oxygen species
+AKT3	Reactive oxygen species
+FOXO3	Reactive oxygen species
+BAD	Reactive oxygen species
+PTPN1	Reactive oxygen species
+PTEN	Reactive oxygen species
+CHUK	Reactive oxygen species
+IKBKB	Reactive oxygen species
+IKBKG	Reactive oxygen species
+NFKBIA	Reactive oxygen species
+RELA	Reactive oxygen species
+NFKB1	Reactive oxygen species
+PRKCD	Reactive oxygen species
+PTPRJ	Reactive oxygen species
+ACP1	Reactive oxygen species
+PTPN11	Reactive oxygen species
+SRC	Reactive oxygen species
+ABL1	Reactive oxygen species
+ABL2	Reactive oxygen species
+PRKD1	Reactive oxygen species
+PRKD3	Reactive oxygen species
+PRKD2	Reactive oxygen species
+PTK2	Reactive oxygen species
+PLD1	Reactive oxygen species
+PLD2	Reactive oxygen species
+MAP3K14	Reactive oxygen species
+HIF1A	Reactive oxygen species
+ARNT	Reactive oxygen species
+VEGFA	Reactive oxygen species
+KEAP1	Reactive oxygen species
+NFE2L2	Reactive oxygen species
+HMOX1	Reactive oxygen species
